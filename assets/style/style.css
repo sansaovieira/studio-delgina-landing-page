@@ -34,7 +34,7 @@ body {
 
 
 .hero {
-  background-image: url('../assets/banner.webp');
+  background-image: url('/assets/img/banner.webp');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
