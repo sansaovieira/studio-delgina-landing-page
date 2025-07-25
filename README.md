@@ -32,10 +32,13 @@ Este site foi criado com o objetivo de apoiar uma amiga empreendedora a fortalec
 ```plaintext
 studio-delgina-landing-page/
 ├── assets/
-│   ├── style.css           # Estilos personalizados do site
-│   └── screenshot.png      # Imagem de preview da página
-├── index.html              # Estrutura principal da landing page
-└── README.md               # Documentação do projeto
+│ ├── banner.webp
+│ ├── main.jpg
+│ └── screenshot.png
+├── style/
+│ └── style.css
+├── index.html
+└── README.md
 ```
 ---
 
